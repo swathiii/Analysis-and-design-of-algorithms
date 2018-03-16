@@ -1,3 +1,5 @@
+//1) use a class of sort that performs different sorting algorithms and determine the time taken for sorting with different values of n
+
 #include<iostream>
 using namespace std;
 class sort
